@@ -1,9 +1,6 @@
-# 5-Days-75-Question-Challange
-  The 5-Days-75-Question-Challenge is an intensive yet rewarding programming challenge carefully 
-  crafted to empower participants with a stronger command over coding concepts in just five days. 
-  Ideal for Computer Science students, aspiring developers, and programming enthusiasts, this 
-  challenge offers a unique opportunity to embark on a journey from foundational principles to 
-  more advanced problem-solving skills.
+# 5-Days-75-Question-Challenge
+
+Hello there! I'm Aditya Bharti, and I welcome you to my 5-Days-75-Question Programming Challenge repository.
 
 Key Challenge Details:
 
