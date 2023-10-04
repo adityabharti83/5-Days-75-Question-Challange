@@ -11,4 +11,11 @@ Structured for incremental learning, each day of the challenge focuses on specif
 programming knowledge. Participants will find themselves immersed in a diverse set of coding 
 questions, tackling a multitude of real-world scenarios.
 
+Materials Used
+
+C Language: I used the C programming language to solve these challenges.
+Questions References: https://www.programiz.com/c-programming/examples
+GitHub: All my code solutions and progress are documented in this GitHub repository.
+LinkedIn: You can find a detailed post about my experience on my LinkedIn profile.
+
 Aditya Bharti CSE
